@@ -28,4 +28,8 @@ The outcome of the algorithm is the circuit C having the property when applies t
 The results of the implementation of the above discussed paper in QSharp and Qiskit along with the buitin method for state preparation in these languages is shown in graph below. One an easily see that the result of the implementation are promisisng relative t current method of preparing states in QSharp and Qiskit. 
 > Note that our new implmentation has independent of the language and require the same number of gates irrespective of the langauage used.
 
+![Comparison of N qubits W States preparation in New_implimentation vs Current Methods of different languages](1.PNG)
+
+
+
 ### Quantum Resource Estimation
