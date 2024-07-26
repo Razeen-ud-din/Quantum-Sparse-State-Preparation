@@ -11,7 +11,7 @@ In order to work with the jupyter notebook of this project `Quantum_sparse_state
 
 ## Implementation
 
-The file accompained within this reprsitory named as `Project.pdf` contains all the detailed discussion about the main result of the paper "An Efficient Algorithm for Sparse Quantum State Preparation", the implementation procedure of this paper and the results of implemetation in different langauges i.e`Qsharp` and `qiskit`. Below we provide a brief explanation for the algorithm.
+The file accompained within this reprsitory named as `Project.pdf` contains all the detailed discussion about the main result of the paper "An Efficient Algorithm for Sparse Quantum State Preparation", the implementation procedure of this paper and the results of implemetation in different langauges i.e `Classiq` , `Qsharp` and `qiskit`. Below we provide a brief explanation for the algorithm.
 
 ### Input
 The input of the algorithm is the classical description of a quantum state i.e we are providing non zero basis states with their respective coefficients.
@@ -25,7 +25,7 @@ The outcome of the algorithm is the circuit C having the property when applies t
 ## Results
 
 ### Simulation
-The results of the implementation of the above discussed paper in QSharp and Qiskit along with the buitin method for state preparation in these languages is shown in graph below. One an easily see that the result of the implementation are promisisng relative t current method of preparing states in QSharp and Qiskit. 
+The results of the implementation of the above discussed paper in Classiq, QSharp and Qiskit along with the buitin method for state preparation in these languages is shown in graph below. One an easily see that the result of the implementation are promisisng relative t current method of preparing states in Classiq, QSharp and Qiskit. 
 > Note that our new implmentation has independent of the language and require the same number of gates irrespective of the langauage used.
 
 ![Comparison of N qubits GHZ States preparation in New_implimentation vs Current Methods of different languages](1.PNG)
