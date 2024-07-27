@@ -35,3 +35,16 @@ The results of the implementation of the above discussed paper in Classiq, QShar
 
 
 ### Quantum Resource Estimation
+
+
+
+
+## License
+
+Most of the work of the project is done under the classiq project available in github reporsitory https://gitlab.com/qworld/qeducation/qcourse551-1/-/issues/7 
+
+Both of the reporsitories code and material license under the following regulation
+
+The text and figures are licensed under the Creative Commons Attribution 4.0 International Public License (CC-BY-4.0), available at https://creativecommons.org/licenses/by/4.0/legalcode.
+
+The code snippets in the notebooks are licensed under Apache License 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.
