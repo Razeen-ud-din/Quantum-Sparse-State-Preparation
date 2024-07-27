@@ -43,7 +43,7 @@ The results of the implementation of the above discussed paper in Classiq, QShar
 
 Most of the work of the project is done under the classiq project available in github reporsitory https://gitlab.com/qworld/qeducation/qcourse551-1/-/issues/7 
 
-Both of the reporsitories code and material license under the following regulation
+Both of the reporsitories code and material license under the following regulation Accessing and copying code from these repositories without authorization of authors is illegal.
 
 The text and figures are licensed under the Creative Commons Attribution 4.0 International Public License (CC-BY-4.0), available at https://creativecommons.org/licenses/by/4.0/legalcode.
 
