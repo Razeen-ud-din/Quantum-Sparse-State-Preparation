@@ -36,6 +36,11 @@ The results of the implementation of the above discussed paper in Classiq, QShar
 
 ### Quantum Resource Estimation
 
+The results from the resource estimation are consistents with the simulation results, the number of qubits in each case wheateher this new implementation of the paper and the builtin methods of generating states remains same throughout. The other parameters (like number of logical depth, runtime and No of T gates etc ...) are much less in the new implementation compare to the builtin methods of langauages (i.e qiskit and Qsharp). The below graphs are showing theses claims:
+
+> We used Microsoft Quantum Resourse Estimator for our project to do QRE.
+
+
 
 
 
