@@ -40,8 +40,8 @@ The results from the resource estimation are consistents with the simulation res
 
 > We used Microsoft Quantum Resourse Estimator for our project to do QRE.
 
-
-
+![Comparison of N qubits GHZ States preparation in New_implimentation vs Current Methods of different languages](1.PNG)
+![Comparison of N qubits W States preparation in New_implimentation vs Current Methods of different languages](1.PNG)
 
 
 ## License
