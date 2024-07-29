@@ -7,7 +7,7 @@ This project is the implementation of the research paper [An Efficient Algorithm
 
 ## Installation
 
-In order to work with the jupyter notebook of this project `Quantum_sparse_state_prepation.ipynb`, you need a number of packages. The first section of the notebook is about the installation of different packages and modules therein. Running the cells of this section ensure that you are all setup with the environment. The only prerequisite is that you have `python` installed and any IDE that runs `.ipynb` notebook file i.e Visual studio code or jupyter notebook.
+In order to work with the jupyter notebook of this project `Quantum_sparse_state_prepation.ipynb`, you need a number of packages. The first cell of each language implementation is about the installation of different packages and modules therein. Running these cells of each section ensure that you are all setup with the environment. The only prerequisite is that you have `python` installed and any IDE that runs `.ipynb` notebook file i.e Visual studio code or jupyter notebook.
 
 ## Implementation
 
