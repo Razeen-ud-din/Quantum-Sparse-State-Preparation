@@ -11,7 +11,7 @@ In order to work with the jupyter notebook of this project `Quantum_sparse_state
 
 ## Implementation
 
-The file accompained within this reprsitory named as `Project_Report(2).pdf` contains all the detailed discussion about the main result of the paper "An Efficient Algorithm for Sparse Quantum State Preparation", the implementation procedure of this paper and the results of implemetation in different langauges i.e `Classiq` , `Qsharp` and `qiskit`. Below we provide a brief explanation for the algorithm.
+The file accompained within this reprsitory named as `Project_Report.pdf` contains all the detailed discussion about the main result of the paper "An Efficient Algorithm for Sparse Quantum State Preparation", the implementation procedure of this paper and the results of implemetation in different langauges i.e `Classiq` , `Qsharp` and `qiskit`. Below we provide a brief explanation for the algorithm.
 
 ### Input
 The input of the algorithm is the classical description of a quantum state i.e we are providing non zero basis states with their respective coefficients.
